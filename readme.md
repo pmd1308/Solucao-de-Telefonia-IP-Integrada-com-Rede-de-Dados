@@ -1,5 +1,5 @@
 #  Configuração de Telefonia IP no Packet Tracer:
-
+![](VoIP.PNG)
 ## Introdução:
 
 Este tutorial o guiará na configuração de telefonia IP integrada à rede de dados usando o Cisco Packet Tracer. 
